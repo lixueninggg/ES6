@@ -6,5 +6,4 @@ module.exports = {
   imgOutputPath:"img/",
   cssOutputPath:"./css/styles.css",
   devServerOutputPath:"../dist",
-
 }
