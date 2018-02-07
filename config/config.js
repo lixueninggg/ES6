@@ -1,6 +1,8 @@
 module.exports = {
   HTMLDirs:[
-    "index"
+    "index",
+    "let_demo",
+    "const_demo"
   ],
   cssPublicPath:"../",
   imgOutputPath:"img/",

@@ -7,6 +7,10 @@ body, button, input, select, textarea {
   font-family: "Helvetica Neue","PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑";
 }
 
+body, html {
+  height: 100%;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%;
 }
